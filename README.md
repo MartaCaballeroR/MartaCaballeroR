@@ -5,8 +5,8 @@
   
 ## <b>Acerca de mí</b>
 <p align="left">
-  :books: Actualmente estoy Estudiando Ingeniería Informática en la Universidad Rey Juan Carlos.
-  <br>🌱 Actualmente estoy aprendiendo: Java, C, Scala.
+  :books: Acabo de finalizar la carrera Ingeniería Informática en la Universidad Rey Juan Carlos.
+  <br>🌱 Actualmente estoy profundizando mis conocimientos en: ISO 27001, ENS, redes, SOC
 </p>
 <br> 
 
@@ -18,7 +18,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,spring,c" />
+    <img src="https://skillicons.dev/icons?i=java,py,spring,c,scala" />
   </a>
 </p>
 
