@@ -56,4 +56,4 @@
 <br>
 <br>
 
-<h6 align="left"> Actualizado: 4 de septiembre del 2024</h6>
+<h6 align="left"> Actualizado: 7 de octubre del 2026</h6>
